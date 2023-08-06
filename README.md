@@ -3,6 +3,8 @@
 ## Overview
 YouTube Comments Analyzer is a powerful tool that empowers content creators with data visualization and actionable feedback. It utilizes OpenAI's GPT-3.5 Turbo model to generate engaging responses to comments for video creators. The web application, built with Streamlit, allows users to paste a YouTube video URL and perform sentiment analysis on the comments, and obtain actionable insights to engage with their audience effectively.
 
+![](/YouTube Comment Analyzer.JPG)
+
 ## Key Features
 * Get sentiment analysis of YouTube video comments to understand audience feedback.
 * Generate word clouds to visualize popular words in both positive and negative comments.
